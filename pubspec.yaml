@@ -4,8 +4,8 @@ version: 0.2.1
 homepage: https://github.com/sncf-connect-tech/flutter_google_wallet
 
 environment:
-  sdk: '>=3.5.3 <4.0.0'
-  flutter: ">=3.24.3"
+  sdk: ^3.13.0
+  flutter: ">=3.47.0"
 
 dependencies:
   flutter:
